@@ -1,0 +1,9 @@
+chip==0.1.0
+experiment==0.0.0-alpha
+matplotlib==3.3.3
+numpy==1.19.4
+opencv_python_headless==4.4.0.46
+pandas==1.1.4
+scikit_image==0.15.0
+session_info==1.0.0
+skimage==0.0
