@@ -30,3 +30,13 @@ Takes in stitched grayscale image (e.g. from MicrowellStitcher) and outputs stac
 - `chip.ChipImage.stampWidth` represents the width of the individual microwell images
   - from center of blank space on one side of microwell to center of blank space on the other side, within a single subarray
   - see MicrowellProcessor/resources/chip.ChipImage.stampWidth.png for example image
+
+All other parameters are related to file locations and are optional
+
+### Save microwell images
+
+Takes in stacked .tif and .csv from `extract_subarrays.ipynb` and saves individual microwell images. 
+
+Includes optional code to apply basic threshold to fluorescent images and save images after threshold has been applied.
+
+Only parameters to change here are file locations.
