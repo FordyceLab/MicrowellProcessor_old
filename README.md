@@ -3,7 +3,8 @@ Processes stitched microwell images to extract subarrays and save individual mic
 
 ## Installation
 
-From the command line, install github repository via `git clone https://github.com/FordyceLab/MicrowellProcessor`
+From the command line, install github repository via 
+`git clone https://github.com/FordyceLab/MicrowellProcessor`
 
 ## Usage
 
