@@ -36,8 +36,6 @@ All other parameters are related to file locations and are optional
 
 ### Save microwell images
 
-Takes in stacked .tif and .csv from `extract_subarrays.ipynb` and saves individual microwell images. 
-
-Includes optional code to apply basic threshold to fluorescent images and save images after threshold has been applied.
+Takes in stacked .tif and .csv from `extract_subarrays.ipynb` and saves individual microwell images. Includes optional code to apply basic threshold to fluorescent images and save images after threshold has been applied.
 
 Only parameters to change here are file locations.
